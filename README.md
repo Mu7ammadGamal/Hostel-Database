@@ -37,8 +37,4 @@ SELECT * FROM Employee
 ```
 ![Employee](https://user-images.githubusercontent.com/47898196/179098007-58c809a0-e7dd-4ea3-8a5a-04d7c6cde32f.PNG)
 
-```sql
-SELECT * FROM Room
-```
-![Room](https://user-images.githubusercontent.com/47898196/179098101-eeb3c88a-c4cd-47a2-98fc-4a744852995c.PNG)
 
